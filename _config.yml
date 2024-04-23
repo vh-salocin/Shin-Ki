@@ -4,8 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  
  El ki común es grueso y pesado, el ki verdadero es ligero y versátil. Para un buen desempeño, debes liberarte del ki ordinario y permear tus órganos con el ki verdadero.” 
  
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://vh-salocin.github.io/Shin-Ki/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/Shin-Ki'
+url: 'https://vh-salocin.github.io/Shin-Ki'
 
 
 # Build settings
